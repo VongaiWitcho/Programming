@@ -7,7 +7,7 @@ A file and directory backup tool with versioning, ZIP support, and logging — a
 
 ## Main Interface
 
-![Main GUI](https://github.com/VongaiWitcho/Programming/file_backup_logger/file logger.png)
+![Main GUI](https://github.com/VongaiWitcho/Programming/blob/main/filelogger.PNG))
 
 ## Log Output Example
 
