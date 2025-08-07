@@ -11,7 +11,7 @@ A file and directory backup tool with versioning, ZIP support, and logging — a
 
 ## Log Output Example
 
-![Log Output](https://github.com/VongaiWitcho/Programming/file_backup_logger/fileloggerlogs.png)
+![Log Output](https://github.com/VongaiWitcho/Programming/blob/main/fileloggerlogs.PNG)
 
 
 ## ✅ Features
